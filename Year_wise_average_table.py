@@ -1,5 +1,5 @@
 from openpyxl import load_workbook
-
+# Calculate and make a table for year wise average in excel, transposing the current dataset
 # Load the workbook
 wb = load_workbook("prices.xlsx")  # replace with your filename
 data_sheet = wb["Data"]
