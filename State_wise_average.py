@@ -1,5 +1,5 @@
 from openpyxl import load_workbook
-
+# Calculates the number of times a state has occured and make a table in excel for it.
 # Load the workbook and sheets
 wb = load_workbook("example_updated.xlsx")  # Replace with your file name
 data_sheet = wb["Data"]
