@@ -1,5 +1,5 @@
 from openpyxl import load_workbook
-
+# Creates a region wise average table in excel with it's occurence
 # Load the workbook and sheets
 wb = load_workbook("example_updated_2.xlsx")  # Replace with your filename
 data_sheet = wb["Data"]
