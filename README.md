@@ -28,9 +28,6 @@ Initially, I attempted to implement this in Excel but, due to my limited knowled
 - **Python**
 - **openpyxl** (to manipulate Excel files programmatically)
 
-All the code is available in my **GitHub repository** below. You can check it out using this link:  
-🔗 **[GitHub Repository Link]** (Replace with actual link)  
-
 I have also uploaded the **final filled Excel file** in the repository. The code includes **comments** at necessary points to explain the logic clearly.
 
 ---
